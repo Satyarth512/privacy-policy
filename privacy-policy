@@ -1,0 +1,35 @@
+# Privacy Policy for FocusFlow
+
+**Last Updated:** January 18, 2026
+
+FocusFlow ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our application uses your data and the permissions we request.
+
+## 1. Data Collection and Usage
+
+**FocusFlow does NOT collect, store, or transmit any personal user data to external servers.** All processing happens locally on your device.
+
+## 2. Accessibility Service Permission
+
+FocusFlow requires the Android **Accessibility Service permission** to function. This permission is used strictly for the following purpose:
+
+*   **App Blocking:** To detect when a distraction app (selected by you) is opened and to display a blocking overlay over it.
+
+**We do NOT use the Accessibility Service to:**
+*   Read your screen content (emails, messages, passwords).
+*   Change your device settings without your permission.
+*   Track your interaction with other apps for advertising or analytics.
+
+The service is active only when you have enabled the "App Blocking" feature within FocusFlow.
+
+## 3. Usage Data
+
+We do not track or analyze your app usage history. The app checks the package name of the currently active application solely to determine if it matches a blocked app in your list. This check is performed locally in real-time and is not recorded.
+
+## 4. Third-Party Services
+
+Review the privacy policies of any third-party services you may interact with through our app, though FocusFlow itself does not integrate third-party analytics or ad networks.
+
+## 5. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+[Your Email / Contact Information]
